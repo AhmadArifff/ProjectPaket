@@ -1,0 +1,15 @@
+__ci_last_regenerate|i:1675834715;_ci_previous_url|s:50:"http://localhost:8080/admin/databarang/paketbarang";u_id|s:1:"1";u_fullname|s:10:"Ahmad Arif";u_username|s:5:"admin";isLoggedIn|b:1;u_role|s:5:"admin";error|s:510:"<!-- DEBUG-VIEW START 1 SYSTEMPATH\Validation\Views\list.php -->
+	<div class="errors" role="alert">
+		<ul>
+					<li>The s_id field is required.</li>
+					<li>The b_id field is required.</li>
+					<li>The sb_hargaasli field is required.</li>
+					<li>The sb_hargajual field is required.</li>
+					<li>The sb_qty field is required.</li>
+					<li>The sb_berat/ukuran field is required.</li>
+					<li>sb_foto Wajib diisi!</li>
+				</ul>
+	</div>
+
+<!-- DEBUG-VIEW ENDED 1 SYSTEMPATH\Validation\Views\list.php -->
+";__ci_vars|a:3:{s:5:"error";s:3:"old";s:13:"_ci_old_input";s:3:"old";s:21:"_ci_validation_errors";s:3:"old";}_ci_old_input|a:2:{s:3:"get";a:0:{}s:4:"post";a:12:{s:11:"csrf_arisya";s:32:"b4f9c592bcbd77a2edb999e833ef5296";s:6:"p_nama";s:7:"PREMIUM";s:5:"pe_id";s:1:"1";s:13:"p_hargaBarang";s:7:"111,111";s:11:"p_hargaJual";s:7:"123,213";s:5:"pa_id";s:2:"15";s:10:"p_cashback";s:6:"56,575";s:11:"p_insentive";s:7:"123,213";s:6:"p_laba";s:7:"123,123";s:16:"p_persentaseLaba";s:1:"4";s:8:"p_barang";a:2:{i:0;s:2:"18";i:1;s:2:"21";}s:6:"submit";s:0:"";}}_ci_validation_errors|s:385:"a:7:{s:4:"s_id";s:27:"The s_id field is required.";s:4:"b_id";s:27:"The b_id field is required.";s:12:"sb_hargaasli";s:35:"The sb_hargaasli field is required.";s:12:"sb_hargajual";s:35:"The sb_hargajual field is required.";s:6:"sb_qty";s:29:"The sb_qty field is required.";s:15:"sb_berat/ukuran";s:38:"The sb_berat/ukuran field is required.";s:7:"sb_foto";s:20:"sb_foto Wajib diisi!";}";

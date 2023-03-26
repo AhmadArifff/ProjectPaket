@@ -1,0 +1,26 @@
+__ci_last_regenerate|i:1675696758;_ci_previous_url|s:58:"http://localhost:8080/admin/formsregister/datauser/38/edit";u_id|s:1:"1";u_fullname|s:10:"Ahmad Arif";u_username|s:5:"admin";isLoggedIn|b:1;u_role|s:5:"admin";error|s:1050:"<!-- DEBUG-VIEW START 1 SYSTEMPATH\Validation\Views\list.php -->
+	<div class="errors" role="alert">
+		<ul>
+					<li>u_username Harus diisi</li>
+					<li>The u_password field is required.</li>
+					<li>The password-confirm field is required.</li>
+					<li>The u_fullname field is required.</li>
+					<li>The u_role field is required.</li>
+					<li>The u_referensi field is required.</li>
+					<li>The u_email field is required.</li>
+					<li>The u_create_at field is required.</li>
+					<li>The u_nik field is required.</li>
+					<li>The u_nama field is required.</li>
+					<li>The u_tempat_lahir field is required.</li>
+					<li>The u_tanggal_lahir field is required.</li>
+					<li>The u_jenis_kelamin field is required.</li>
+					<li>The u_provinsi field is required.</li>
+					<li>The u_kota field is required.</li>
+					<li>The u_kelurahan field is required.</li>
+					<li>The u_kecamatan field is required.</li>
+					<li>The u_kodepos field is required.</li>
+				</ul>
+	</div>
+
+<!-- DEBUG-VIEW ENDED 1 SYSTEMPATH\Validation\Views\list.php -->
+";__ci_vars|a:1:{s:5:"error";s:3:"new";}

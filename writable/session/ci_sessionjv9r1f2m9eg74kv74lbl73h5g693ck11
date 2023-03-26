@@ -1,0 +1,9 @@
+__ci_last_regenerate|i:1676026787;_ci_previous_url|s:52:"http://localhost:8080/admin/datatransaksi/logcicilan";u_id|s:1:"1";u_fullname|s:10:"Ahmad Arif";u_username|s:5:"admin";isLoggedIn|b:1;u_role|s:5:"admin";error|s:228:"<!-- DEBUG-VIEW START 1 SYSTEMPATH\Validation\Views\list.php -->
+	<div class="errors" role="alert">
+		<ul>
+					<li>l_foto Wajib diisi!</li>
+				</ul>
+	</div>
+
+<!-- DEBUG-VIEW ENDED 1 SYSTEMPATH\Validation\Views\list.php -->
+";__ci_vars|a:3:{s:5:"error";s:3:"old";s:13:"_ci_old_input";s:3:"old";s:21:"_ci_validation_errors";s:3:"old";}_ci_old_input|a:2:{s:3:"get";a:0:{}s:4:"post";a:4:{s:11:"csrf_arisya";s:32:"974d618554fa831d7846e12828f17d1f";s:4:"u_id";s:1:"3";s:14:"l_jumlah_bayar";s:7:"500,000";s:6:"submit";s:0:"";}}_ci_validation_errors|s:46:"a:1:{s:6:"l_foto";s:19:"l_foto Wajib diisi!";}";
